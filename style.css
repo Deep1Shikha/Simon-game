@@ -1,0 +1,16 @@
+#box {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.tile {
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+}
+
+.disable{
+  opacity: 0.3;
+  pointer-events: none;
+}
